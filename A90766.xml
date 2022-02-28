@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plea for ministers in sequestrations; wherein Mr. Mossom's Apology for the sequestred clergy, is duly considered and discussed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90766</idno>
+            <idno type="STC">Wing P2511</idno>
+            <idno type="STC">Thomason E1026_1</idno>
+            <idno type="STC">ESTC R208746</idno>
+            <idno type="EEBO-CITATION">99867668</idno>
+            <idno type="PROQUEST">99867668</idno>
+            <idno type="VID">119989</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90766)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119989)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 152:E1026[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plea for ministers in sequestrations; wherein Mr. Mossom's Apology for the sequestred clergy, is duly considered and discussed.</title>
+               </titleStmt>
+               <extent>[2], 6 [i.e. 14] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Parkhurst, at the three Crowns against the lower conduit in Cheapside,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Mossom, Robert.  An apology in the behalf of the sequestred clergy.</note>
+                  <note>Page 14 misnumbered 6.</note>
+                  <note>Annotation on Thomason copy: "May 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mossom, Robert, d. 1679. --  An apology in the behalf of the sequestred clergy.</term>
+               <term>Church of England --  17th century --  Early works to 1800.</term>
+               <term>Clergy --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119989:1"/>
+            <pb facs="tcp:119989:1" rendition="simple:additions"/>
+            <p>A PLEA FOR MINISTERS IN SEQUESTRATIONS; WHEREIN Mr. <hi>Moſſom</hi>'s Apology for the Sequeſtred Clergy, is duly Conſidered and Diſcuſſed.</p>
+            <q>
+               <hi>Juſtitia Legis, et Lex reipublicae baſis.</hi>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Prov. 18.17.</hi>
+               </bibl>
+               <p>A man that is firſt in his own Cauſe ſeemeth juſt, till his neighbour com<g ref="char:EOLhyphen"/>eth and ſearcheth him.</p>
+            </q>
+            <p>LONDON, Printed for <hi>Thomas Parkhurſt,</hi> at the three Crowns againſt the lower Conduit in <hi>Cheapſide,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119989:2"/>
+            <pb n="1" facs="tcp:119989:2"/>
+            <head>
+               <hi>M<hi rend="sup">r:</hi>
+               </hi> Moſſom's <hi>Apology,</hi> FOR THE Sequeſtred Clergy, Duly conſidered and diſcuſſed, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>IS eaſie to accuſe any ſort of men, and if accuſation were enough none ſhould be in<g ref="char:EOLhyphen"/>nocent, but we ſay one mans <hi>tale</hi> is good till another be told: or rather (as we read in Scripture, Pro. 18.17.) <hi>A man that is firſt in his own cauſe ſeemeth juſt, till his neighbour cometh and ſearcheth him.</hi> I have ſeen an <hi>Apology</hi> (or rather an <hi>Alogy</hi>) for the Sequeſtred Clergy (a plaſter too too little for the ſore) whom I had rather ſee <hi>to be an apologie,</hi> then <hi>make an apologie,</hi> yet the latter, if not injurious and defamatory to others, would do very well.</p>
+            <p>I thought ſome fit and experienced might make ſome <hi>timely reflections</hi> upon that Apology, but ſeeing yet nothing abroad, I remembred the ſaying, <hi>Pudet haec opprobria nobis, ſic dici potuiſſe,</hi> &amp;c. And reſolved (ſince there is leave and freedom for a juſt defence) with young <hi>Elihu, I will anſwer my part: I al<g ref="char:EOLhyphen"/>ſo will ſhew mine opinion,</hi> Job 30.17.</p>
+            <p>In the Apology therefore I ſhall conſider the Apologiſts <hi>reaſons</hi> for themſelves; 2. His <hi>weak objections for us</hi> (which are framed by him proportionable to what he would fain anſwer);
+<pb n="2" facs="tcp:119989:3"/>3. I ſhall ſhew him ſome <hi>Reaſons on our part;</hi> and laſtly give him my <hi>adviſe.</hi>
+            </p>
+            <p>Firſt, Therefore if we conſider the complaint, upon which the ſtrength of all his Reaſons <hi>lye:</hi> The complaint is won<g ref="char:EOLhyphen"/>drous compaſſionable, <hi>That they have been Sequeſtred for no other crime but acting in their callings according to the dictate of their conſciences; diſcharging their Miniſtry according to the rule of our eſtabliſhed Lawes:</hi> Page 5.</p>
+            <p>
+               <hi>Anſw.</hi> That ſome have <hi>ſuffered unjuſtly</hi> for not taking <hi>late engagements,</hi> and not owning <hi>unjuſt</hi> though <hi>prevailing intereſts,</hi> is manifeſt to all, and in part redreſt.</p>
+            <p>But where are the many of thoſe <hi>black ſwans,</hi> that have ſuffered for <hi>no other crimes</hi> then a <hi>conſcientious acting</hi> in their calling; I would be glad to ſee the <hi>Printed century</hi> of that truly eſtimable <hi>Fraternity,</hi> but men may plead high, when almoſt all witneſſe and evidence againſt their crimes, are dead and forgotten.</p>
+            <p>Apol: Page 5. <hi>We conceive that the occaſion of our Seque<g ref="char:EOLhyphen"/>ſtration is removed.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> He doth not tell us <hi>the occaſion</hi> of their Sequeſtr: but leaves us plainly to <hi>conjecture,</hi> and the world <hi>that now is</hi> beleeveth, and the former times <hi>clearly proved,</hi> that gene<g ref="char:EOLhyphen"/>rally the <hi>crimes, ſcandals, or ſuperſtitions</hi> of their lives, were the <hi>occaſion</hi> of their Sequeſtration, and if that <hi>occaſion</hi> be indeed <hi>removed,</hi> and the <hi>Godly and ſober</hi> in their Con<g ref="char:EOLhyphen"/>gregations doe beleeve that they have renounced their <hi>for<g ref="char:EOLhyphen"/>mer ſcandalous converſation,</hi> we would ſubmit freely to be <hi>thankfully and honourably diſmiſſed,</hi> for their ſakes.</p>
+            <p>Apol: Page 7. <hi>This. Preſident we have</hi> (<hi>viz:</hi> of reſto<g ref="char:EOLhyphen"/>ring the Fathers and Paſtors of the Church) <hi>from Zeno the Emperour,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> The Apologiſt need not have gone ſo far back as <hi>Zeno</hi> for an example of <hi>juſt reſtitution,</hi> our <hi>late Honourable Parliament</hi> hath reſtored the Reverend and Famous <hi>Reinolds,</hi> and many other Worthy Paſtors, and 'tis our <hi>great deſire</hi> that all <hi>found and pious</hi> Divines ſhould be reſtored.</p>
+            <p>But will the Apologiſt on the other hand, remember <hi>later
+<pb n="3" facs="tcp:119989:3"/>Preſidents</hi> then the <hi>thirty Tyrants,</hi> even the <hi>Known, ſad, and diſmal ruin</hi> of ſo many ſcores of Godly Miniſters, ſilenced and Sequeſtred <hi>(ab officio et beneficio)</hi> only in the Dioceſſe of Dr. <hi>Wren,</hi> late Prelate of <hi>Norwich</hi> (and if they did ſo much <hi>there,</hi> what was done in all the reſt of the <hi>Kings Provinces</hi>) which ſome alive can teſtifie to their <hi>irreparable loſſe</hi> at this day.</p>
+            <p>Where were <hi>Mr.</hi> Moſſom's <hi>Articuli Cleri</hi> that he ſpeaks of in thoſe dayes? what Apologie or Plea might abide and ſtand in our defence, either from <hi>Magna Charta</hi> or any other Law or priviledge? In what corner could we hide our ſelves from the cloud and tempeſt of the maliciouſneſs of Biſhop <hi>Lad,</hi> what with him was the higheſt <hi>cognizance</hi> of (not the <hi>ſcanda<g ref="char:EOLhyphen"/>lous</hi> but <hi>ſcandaled</hi>) <hi>Puritan Miniſters,</hi> but the brand of <hi>Raſchals.</hi>
+            </p>
+            <p>Apol: Page 9, 10, 11. <hi>The Apologiſt calls upon the Ju<g ref="char:EOLhyphen"/>ſtice of the Parliament, to reſtore their Sequeſtrations as their indubitable right.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This earneſt pretender unto ſuch undoubted right ſaith much but <hi>proves nothing</hi> (either by the Law of God or man) to <hi>exemplifie</hi> the ſame, but if indeed their right were ſo <hi>abſolute and indubitable,</hi> that a Parliament might not <hi>queſtion their Title,</hi> nor <hi>cenſure their actions;</hi> I confeſſe their right was <hi>indubitable</hi> enough. But <hi>de facto,</hi> the Parliament did <hi>queſtion and cenſure</hi> ſome of them; (as in the years 1642 1643, and ſome I think after) now muſt we beleeve the Parliament <hi>guilty of high illega<g ref="char:EOLhyphen"/>lity</hi> and injuſtice againſt theſe mens <hi>indubitable right?</hi> or theſe men <hi>guilty of crimes juſtly cenſurable</hi> by ſo high a Court? And if the Apologiſt will <hi>give us leave;</hi> we will rather <hi>adhere</hi> to the Parliament to repute them (as they were) <hi>a juſt and honourable Court,</hi> then to <hi>unbeleeve</hi> the crimes of thoſe they <hi>cenſured,</hi> and our ſelves knew ſome of them to be <hi>notorious offenders.</hi> If that Parliament were <hi>unjuſt,</hi> Let a Parliament <hi>cenſure</hi> the action; and if they were <hi>unjuſt,</hi> why did the Sequeſtred Miniſters <hi>leave their charges</hi> many of them, before ever they felt their <hi>injuſtice,</hi> and never <hi>returned</hi> in almoſt 20 years to their <hi>ſtations</hi> againe; and if they were <hi>unjuſtly</hi> driven away why did they not return to their <hi>Flocks,</hi> as to the exerciſe of <hi>a Miniſtry</hi> amongſt them in <hi>ſpight of injustice,</hi> and all <hi>danger,</hi> as we have in the examples
+<pb n="4" facs="tcp:119989:4"/>of the <hi>Primitive Doctors,</hi> and in ſome of our own <hi>Faithful Pa<g ref="char:EOLhyphen"/>ſtors</hi> in the Biſhops dayes, or why do they accuſe us as <hi>intruders and injuſt,</hi> unleſſe they would have their Congregations <hi>lefe de<g ref="char:EOLhyphen"/>ſtitute of Miniſterial</hi> ſupply? or had it been juſt, (as it uſe to be done with their poor <hi>Curates,</hi>) that we ſhould have fed the <hi>Flock</hi> and they have taken the <hi>Profits?</hi>
+            </p>
+            <p>We have judged that the exerciſe of our Miniſtry in this kind was <hi>charitable,</hi> and our <hi>poſſeſſion juſt,</hi> there being no grea<g ref="char:EOLhyphen"/>ter Law amongſt us then <hi>Parliament</hi> Law received in this Nation. But let us quaery (good <hi>Mr.</hi> Moſſom) if the Parlia<g ref="char:EOLhyphen"/>ment by <hi>injuſtice</hi> caſt out thoſe, (whom upon <hi>proofe</hi> and <hi>experi<g ref="char:EOLhyphen"/>ence</hi> they judged to be <hi>ſcandalous</hi> or <hi>ſuperſtitious</hi> men): by what did the <hi>Prelates</hi> caſt out thoſe <hi>Godly and blameleſſe Miniſters,</hi> in the dayes of their <hi>ſeverity,</hi> if what the <hi>High-Court of Parlia<g ref="char:EOLhyphen"/>ment</hi> therefore did were ſuch <hi>injuſtice</hi> as is <hi>pretended, and ex<g ref="char:EOLhyphen"/>claimed on,</hi> how ſhall we judge any thing by a due ſtandard of <hi>right and juſtice</hi> hereafter?</p>
+            <p>Apol: Page 8. <hi>We deſire no more but the benefit of the known Law.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 'Tis pity this <hi>Law and benefit</hi> of it was not <hi>known,</hi> when Biſhop <hi>Wren</hi> and that gang were in all their <hi>Ruff.</hi> O that <hi>Auſtins</hi> ſentence you ſpeak of, (<hi>prated</hi> all to peices and never <hi>practiſed</hi>) had then been <hi>effectually minded, (non dimittitur pec<g ref="char:EOLhyphen"/>catum niſi reſtituatur oblatum,)</hi> when ſo many Miniſters of the Goſpel were <hi>ſequeſtred</hi> for ſuch <hi>pitiful trifles.</hi>
+            </p>
+            <p>No queſtion but the <hi>Law</hi> is indeed the <hi>known Law</hi> to many of the <hi>Sequeſtred Clergy,</hi> and they made it <hi>practically known</hi> to their people, (and their ſmartful experience ſpeaks it enough,) but the <hi>known Goſpel</hi> would have done well to have been <hi>practi<g ref="char:EOLhyphen"/>cally made known</hi> by them rather, yet even the Law ſaith (amongſt them that know the Law) that the <hi>complainams</hi> have <hi>lapſed</hi> their Livings; at leſt, by never offering to ſerve the cure, in almoſt 20 years. But now <hi>(O Infalix evum pecus)</hi> The be<g ref="char:EOLhyphen"/>nefit and <hi>inſultation</hi> over their <hi>flocks;</hi> and hope of returning to their old <hi>ſport</hi> again, makes them pretend a <hi>huge juſt Title,</hi> and all (but they) muſt be <hi>intruders</hi> and themſelves the <hi>Judges.</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:119989:4"/>
+Is it not well known to the Grave and Learned in the Law and Eccleſiaſtick concernments, what <hi>Jus Patronatus</hi> truly was, and what (<hi>Reſidentia in cura,</hi> or) <hi>paſtorall incumbency</hi> ought to be? I would willingly ſubmit the later diſputes and lazie controverſies of <hi>Pluraliſts</hi> and <hi>non reſidents,</hi> to the True and Faithfull ſentence of the Learned and Impartiall. And perſo<g ref="char:EOLhyphen"/>nally I would acquieſce in the Judicious and moſt elaborate knowledge of Mr. <hi>Prin; (Artifex credendus in arte ſuâ)</hi> whoſe proficiency in the <hi>Law</hi> and <hi>Antiquity,</hi> ſpeakes him <hi>acceptable</hi> and <hi>honourable</hi> to all men.</p>
+            <p>Apol: Page 8. The Apologiſt frameth ſome <hi>trifling objecti<g ref="char:EOLhyphen"/>ons;</hi> as it were to help us <hi>at a dead lift,</hi> but indeed he framed them for <hi>eaſines of anſwer,</hi> that he might at leaſt <hi>ſeem</hi> (ro ſome) to have ſaid <hi>ſomething.</hi>
+            </p>
+            <p>He Objecteth (in our behalfe forſooth) that <hi>Learned and Godly men will be unprovided for if ſequeſtrations be reſto<g ref="char:EOLhyphen"/>red.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> That is not our care; who <hi>Remember,</hi> and in ſome meaſure <hi>underſtand</hi> the Doctrin of the <hi>Loaves,</hi> and of the <hi>Thou<g ref="char:EOLhyphen"/>ſands,</hi> Math. 16.</p>
+            <p>Apolog: Page 8. The Apologiſts Anſwer to his <hi>own Objecti<g ref="char:EOLhyphen"/>on</hi> is full, (that is to ſay <hi>full mouthed</hi> enough) wherein he bringeth <hi>Learned and Godly</hi> into no better then an <hi>Ironicall di<g ref="char:EOLhyphen"/>minution.</hi> But magnifies the ſequeſtred Clergy, to be the <hi>Lear<g ref="char:EOLhyphen"/>nedeſt</hi> that ever <hi>England</hi> had. Saying Page 8. <hi>The learnedeſt Clergy that ever England had was that Sequeſtred Clergy:</hi> (if he had added that were ſequeſtred and ſuſpended by the <hi>Prela<g ref="char:EOLhyphen"/>ticall faction;</hi> he had been nearer the marke, for as <hi>learned</hi> men (but <hi>Learnedeſt</hi> is an odious Compariſon) as ever <hi>England</hi> bred were <hi>ſequeſtred, diſplaced, ſilenced,</hi> or <hi>perſecuted</hi> by the Prelates.</p>
+            <p>Apol: ib: He ſaith further; <hi>This learnedeſt Clergy was un<g ref="char:EOLhyphen"/>provided for almoſt twenty years.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> How can that be ſo? That <hi>Godly and learned</hi> (nay he ſaith <hi>learnedeſt</hi>) <hi>Miniſters</hi> ſhould be ſo long unprovided for? I never yet in all the <hi>Biſhops dayes</hi> (much leſſe ſince)
+<pb n="6" facs="tcp:119989:5"/>have ſeen the <hi>righteous Miniſters forſaken,</hi> or long <hi>unprovided</hi> for. But I ſee the Apologer counteth nothing <hi>proviſion,</hi> nothing <hi>tenderneſſe,</hi> or <hi>compaſſion</hi> towards the now <hi>ſequeſtred Clergy:</hi> except that we will <hi>doe the work</hi> and give them the <hi>wages;</hi> and that not of our <hi>Courteſie,</hi> but <hi>Duty.</hi>
+            </p>
+            <p>Apol: Page 10. Another Objection that he <hi>ſuppoſeth</hi> and <hi>inventeth</hi> for us is this. <hi>That the Reſtorement of the ſeques;tred Clergy, will diſturbe the Calmneſſe of the State.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This Objection proceedeth from the <hi>evill boading</hi> of his Conſcience; perhaps too truly <hi>foredeeming</hi> their own <hi>tur<g ref="char:EOLhyphen"/>bulent ſubſequent</hi> actions, if they regain their power. For we have ſadly ſeen what a <hi>ſtir</hi> many of them made, to the diſquiet of <hi>Church and State</hi> with their <hi>ſuperſtitious Trampery;</hi> (<hi>Trou<g ref="char:EOLhyphen"/>blers</hi> of <hi>England</hi> indeed) that would have had the very <hi>propha<g ref="char:EOLhyphen"/>nation of the Sabbath,</hi> and many <hi>knacks</hi> of their <hi>old Mumpſimus</hi> eſtabliſhed by Law. But then, when a Sequeſtration is eſtabli<g ref="char:EOLhyphen"/>ſhed upon that: they cry out, O this is to <hi>eſtabliſh iniquity by a Law!</hi>
+            </p>
+            <p>But if the Apologiſt feareth <hi>diſturbance</hi> from us we ſhall <hi>quietly reſolve</hi> them on the contrary; for we have not only <hi>Learned obedience</hi> from what we have ſome of us <hi>formerly and later ſuffered;</hi> but can (I <hi>beleeve</hi> and truly <hi>feel</hi> it in my heart) ſay with honeſt <hi>Mephiboſheth, Let them take all;</hi> (if that were all,) ſince our Gracious King is <hi>returned in peace;</hi> with that <hi>Olive Branch,</hi> of the <hi>unfading purpoſes</hi> of eſtabliſhing <hi>Houſneſſe,</hi> and <hi>Juſtice;</hi> (to his immortall glory and happineſſe,) in theſe Nations.</p>
+            <p>Apol: Page 11. He ſerves us with another unſerviceable Objection from the Purchaſers of Church Lands, <hi>(Thank him Biſhops!)</hi> where he finds an <hi>appearance of equity,</hi> and can diſ<g ref="char:EOLhyphen"/>penſe with a <hi>Rule of the Civill Law for them,</hi> partly to caſt <hi>an Odium</hi> the more on us, and a little to favour (as he could) <hi>his friends and Relations,</hi> perhaps concern'd in ſuch <hi>Bargains:</hi> upon which (few, or I think) none of us ever durſt venture.</p>
+            <p>Apol: Page 12. He fits us yet further: <hi>Imagining</hi> this to be an <hi>Objection</hi> on our parts; <hi>That all muſt be content, to be looſers.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:119989:5"/>
+               <hi>Anſw.</hi> No not all <hi>Loofers,</hi> nor all <hi>content,</hi> yet many <hi>ſequeſt<g ref="char:EOLhyphen"/>red Miniſters</hi> were better provided after their Sequeſtration then ever before, and that out of the Livings, and Goods of ſome of us (yet feeling the <hi>loſſe, but not at all content</hi>) I could inſtance in ſome <hi>Intruders,</hi> to their <hi>dread and ſhame,</hi> that had need put in <hi>an Apology</hi> for ſuch <hi>plunders, ſpoiles, and unlawfull poſſeſſions,</hi> if the <hi>Oxford articles</hi> ſhould fail them, as far, as they would have the <hi>Acts and Ordinances</hi> of the former Parliament failus. But I hope 'tis as <hi>honeſt</hi> and <hi>comely,</hi> for a <hi>poor blameleſs Miniſter,</hi> commanded to ſerve the cure of a <hi>deſerted Pariſh,</hi> for the <hi>good of their ſoulès</hi> (more then the <hi>profit of his purſe:</hi>) to ſay, I have an <hi>order of Parliament</hi> to defend me; as for a <hi>violent Intruder</hi> upon us to <hi>plunder</hi> and <hi>deſtroy</hi> even a man <hi>and his houſe,</hi> and <hi>poſſeſſe</hi> his place (as ſome have done) and ſay <hi>in his defence,</hi> I have the <hi>Oxford Articles</hi> to ſhew, and I plead the benefit of the <hi>Oxford articles.</hi>
+            </p>
+            <p>Muſt all be <hi>content</hi> to be <hi>looſers! Infandum Moſſome jubes re<g ref="char:EOLhyphen"/>novare dolorem.</hi> O how <hi>wounding a remembrance</hi> is it to think of thoſe (ſo many <hi>Learned and Reverend Miniſters</hi>) that were as great <hi>looſers</hi> by the <hi>Biſhops,</hi> by <hi>confiſcation, ſequeſtrings, ſilencing, or perſecuting,</hi> as any have been in theſe times, and they were <hi>indeed ſequeſtred,</hi> and <hi>for no other cauſe, but acting in their callings according to the Dictate of their conſcience, and diſcharging their Miniſtry according to the rules both of Law and Goſpel.</hi>
+            </p>
+            <p>How ſad was it that <hi>Miniſters</hi> (of <hi>approved abilities</hi> for higher work) might not be ſuffered ſo much as to <hi>School a child or two in a privat family,</hi> nor to <hi>pray in a friend or brothers houſe;</hi> but it did incur the danger of being <hi>preſented</hi> as an <hi>unlawful conven<g ref="char:EOLhyphen"/>ticle,</hi> therefore if (as learned <hi>Hooker</hi> in his Eccl. Pol. in Pref.) <hi>as well how to want, as to abound,</hi> be the empreſſe of <hi>a Biſhop.</hi> Surely we may claime the <hi>cognizance,</hi> if <hi>looſers</hi> may have leave to ſpeak; But though <hi>looſers,</hi> not <hi>loſt,</hi> (bleſſed be God) that is alwayes <hi>ſeen in the Mount,</hi> that <hi>then</hi> provided for <hi>perſecuted Mi<g ref="char:EOLhyphen"/>niſters,</hi> and hath in the midſt of all our <hi>neceſſities,</hi> followed us and our <hi>preſervers,</hi> with <hi>abundance of mercies.</hi>
+            </p>
+            <p>Apol: Page 9. Thirdly, For the <hi>Ironicall and beſpatte<g ref="char:EOLhyphen"/>ring expreſſions of the Apologiſt,</hi> who calls us (amongſt other
+<pb n="8" facs="tcp:119989:6"/>ill names, as <hi>Intruders and the like</hi>) <hi>Pretended Godly Miniſters.</hi> Page 9.</p>
+            <p>
+               <hi>Anſw.</hi> We anſwer firſt, He cannot deny us to be <hi>pretenders</hi> (and <hi>intenders</hi> too) to <hi>Godlineſs,</hi> which muſt be denied to <hi>very many</hi> of his <hi>Sequeſtred Clergy,</hi> as having <hi>neither name, nor thing,</hi> of any <hi>pretence</hi> to Godlineſſe at all.</p>
+            <p>And why muſt <hi>pretended Godly</hi> be the <hi>Larva</hi> that he will put upon us, but to have us <hi>devoured</hi> as <hi>reputed hypocrites,</hi> but as for themſelves I pity them, (ſo well are <hi>thoſe trees</hi> known by <hi>their fruits,</hi>) that we can ſay, <hi>but of few,</hi> that they are ſo much as <hi>hy<g ref="char:EOLhyphen"/>pocrites,</hi> or <hi>pretenders to Godlineſſe,</hi> it being (as <hi>Greg. Naz.</hi> ſaith) <hi>the only Godlineſſe of theſe men, to find out ſomething, whereby to judge others ungodly.</hi>
+            </p>
+            <p>Apol: Page 8. The Apologiſt enforceth his <hi>incredible ſcan<g ref="char:EOLhyphen"/>dal</hi> upon us with this (as he ſuppoſeth) <hi>undeniable</hi> queſtion; <hi>how are they Godly who will knowingly add ſin to ſin?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This Phyſitian ſhould begin his <hi>charitable diſquiſition</hi> at home, looking into the <hi>hindermoſt end of their owne wallet,</hi> and <hi>inquire</hi> (as others alas inquire for them) what <hi>eminent godli<g ref="char:EOLhyphen"/>neſſe</hi> they ſhewed in their ſtations! (yea, or do now ſhew!) <hi>How are they Godly,</hi> that <hi>never</hi> ſhewed any <hi>repentant remorſe</hi> for their <hi>ſins againſt God,</hi> and the <hi>Nations peace!</hi> that never bewailed their <hi>Sabbath breaking, Alter worſhip, &amp; perſecution! How were they Godly,</hi> that added <hi>ſin to ſin;</hi> in <hi>proclaiming, and encouraging others</hi> in the <hi>prophanation of the Sabbath!</hi> They that <hi>breake the command of God, and teach men ſo, ſhall be called the leaſt in the Kingdome of Heaven;</hi> Matth. 5. <hi>How were they Godly,</hi> that took away <hi>conſciencious</hi> and <hi>frequent preaching,</hi> and brought in a <hi>heap of Cerimonies,</hi> all the <hi>traſh and trumpery</hi> that <hi>Rome</hi> could <hi>ſpare:</hi> We may ſay long enough, <hi>how were they Godly</hi> that did not only <hi>poſſeſs our Livings,</hi> but <hi>plundred</hi> our <hi>deareſt Libra<g ref="char:EOLhyphen"/>ries,</hi> and mocked at all our ſuffering?</p>
+            <p>Apol: Page 10. <hi>The Apologiſt chargeth our conſciences, and beſeecheth us to conſider, how we will anſwer it at the dreadful day of judgement.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Bleſſed be God we can (for this that we have done) <hi>cheerfully remember</hi> that day: yea, <hi>and long for, and haſten to the
+<pb n="9" facs="tcp:119989:6"/>coming of the Lord,</hi> knowing that Chriſt will <hi>acknowledge</hi> what we have done, <hi>in feeding, viſiting,</hi> and <hi>comforting,</hi> the <hi>leaſt flock</hi> that belongs to him, he will accept of it, for <hi>inaſmuch; as we have done it to the leaſt of theſe, we have done it unto him.</hi> We can return to God with <hi>a more happy effect of our Miniſtry</hi> then the Apologiſts ever could; we can ſay (of the bleſſing of God upon our preaching) <hi>here are we and the children that God hath given us, as begotten by the Goſpel.</hi> We have endeavoured faith<g ref="char:EOLhyphen"/>fully to diſcharge <hi>our Ambaſſage,</hi> and hope to render our ac<g ref="char:EOLhyphen"/>count with Joy, having <hi>fed the Flock</hi> that Jeſus Chriſt hath <hi>redee<g ref="char:EOLhyphen"/>med with his own blood,</hi> and can ſay (in ſome meaſure) with <hi>Paul I have fought the good fight and finiſhed the faith.</hi> Neither are we <hi>aſhamed</hi> or <hi>afraid,</hi> (in juſt vindication of ourſelves we may ſpeak it modeſtly,) either before <hi>God or man,</hi> to be <hi>weighed, and compared number for number</hi> with the <hi>Sequeſtred Clergy,</hi> which are the <hi>worthier inſtruments</hi> in Chriſts worke, and <hi>detur digniori,</hi> Let the <hi>fitteſt</hi> take it with all our hearts.</p>
+            <p>But to return to the Apologiſt. I alſo beſeech <hi>the Sequeſtred Clergy</hi> (can I ſay thoſe <hi>Godly Miniſters</hi> ſcoffingly, as he doth, I dare not ſay it) but I beſeech them, <hi>ſuch as they are;</hi> to adviſe before hand concerning that <hi>fearful day!</hi> will <hi>prophanations of the Sabbath, cenſuring, ſequeſtring, perſecuting</hi> Gods Miniſters; will <hi>bowing at the Altar,</hi> will making <hi>Ceremonious pomp and for<g ref="char:EOLhyphen"/>mality,</hi> to be of the <hi>very eſſence</hi> of worſhip: will <hi>ſtarving</hi> the ſouls of poor people, (and yet courting and excommuni<g ref="char:EOLhyphen"/>cating them for <hi>breaking Paſture</hi> (or <hi>Pinfold</hi> rather) to get ſome ſmall <hi>feeding</hi> elſewhere; will theſe things <hi>ſtand in the judge<g ref="char:EOLhyphen"/>ment</hi> with all the reſt <hi>written in the book and books</hi> forever againſt them? then let us <hi>fall;</hi> but as Eccl. 3.17. <hi>I have ſaid in my heart, ſurely God will judge the righteous, and the wicked, for there is time there for every purpoſe, and for every work.</hi>
+            </p>
+            <p>What will <hi>thoſe Miniſters</hi> ſay, when God ſhall inquire where is the Flock <hi>thy beautiful Flock? Woe unto the Paſtors that deſtroy, and ſcatter the ſheep of my paſture, ſaith the Lord. Therefore thus ſaith the Lord God of Iſrael, againſt the Paſtors, that feed my peo<g ref="char:EOLhyphen"/>ple, ye have ſcattered my flock and driven them away, and have not viſited them, behold I will viſit upon you the evil of your doings,
+<pb n="2" facs="tcp:119989:7"/>ſaith the Lord.</hi> Vid. Jer. 23. from 1. to 7. verſ. <hi>Wee be to the Sheepheards of Iſrael, that do feed themſelves<g ref="char:punc">▪</g> ſhould not the ſheep<g ref="char:EOLhyphen"/>heards feed the flock? the diſeaſed you have not ſtrengthned, nei<g ref="char:EOLhyphen"/>ther have you healed that which was ſick, neither have you bound up that which was broken, neither have you brought again that which was driven away, neither have you ſought that which was list, but with force and with cruelty have ye ruled them, and they were ſcattered becauſe there is no ſheepheard, and they became meat to all the beasts of the field when they were ſcattered, my ſheep wandred through all the mountains, and upon every high hill, yea my flock was ſcattered upon all the face of the earth, and none did ſearch or ſeek after them. Therefore ye ſheepheards hear the word of the Lord: As I live ſaith the Lord God, ſurely becauſe my flock became a prey, and my flock became meat to every beast of the field, becauſe there was no ſheepheard, neither did my ſheep<g ref="char:EOLhyphen"/>heards ſearch for my flock but the ſheepheards fed themſelves, and fed not my flock: Therefore O ye ſheepheards, hear the word of the Lord, behold I am againſt the ſheepheards, and I will require my flock at their hands, and cauſe them to ceaſe from feeding the flock neither ſhall the ſheepheards feed themſelves any more, for I will deliver my flock from their mouth, that they may not be meat for them.</hi> Ezek. 34. I wiſh theſe men, that talk <hi>of the judgement day</hi> in the mouth, would <hi>think of it in their heart,</hi> and ſome of their <hi>Learnedeſt Clergy</hi> (as they are called in the Apology) would ſhew the <hi>fruit of the meditation,</hi> in a <hi>ſound Commentary</hi> upon this Chap: which I beleeve few <hi>Pluraliſts,</hi> non <hi>Reſidents,</hi> or <hi>Sequeſt<g ref="char:EOLhyphen"/>red,</hi> dare read and expound thorowly.</p>
+            <p>
+               <hi>The Reaſons on our part,</hi> why they ought not to be <hi>restored</hi> and <hi>we diſmiſſed,</hi> might be many (if we would <hi>ſpeak all</hi> we can in our own cauſe (as they have done) but what I ſhall ſay is <hi>only what ſwayes with me,</hi> as <hi>to warrant my preſent inoumbency</hi> as to my <hi>conſcience.</hi>
+            </p>
+            <p>Moſt of them were guilty of <hi>great and ſcandalous crimes</hi> in their places, as is <hi>notoriouſly known</hi> and proved by the <hi>oaths</hi> and <hi>teſtimonies</hi> of ſufficient witneſſe, and that before the <hi>higheſt Court in England,</hi> that had <hi>power</hi> and <hi>right</hi> to plead the cauſe <hi>of God</hi> and <hi>the people.</hi>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:119989:7"/>
+And further for the <hi>Power</hi> that expelled them: have not <hi>for<g ref="char:EOLhyphen"/>mer Parliaments</hi> done the like? and may not <hi>future Parliaments</hi> doe the ſame? Why ſhould not we judge <hi>their ejection by Par<g ref="char:EOLhyphen"/>liament</hi> as <hi>Juſt</hi> and <hi>Lawfull,</hi> as they judged <hi>ours by the Biſhops?</hi> and in many things <hi>(jam ſumus pares)</hi> we are <hi>proportioned,</hi> we would not take the <hi>Biſhops Oath,</hi> (called <hi>ET CETERA</hi>) nor admit the whole <hi>heape of Ceremonies,</hi> and ſo were <hi>put out,</hi> or kept out, and on their <hi>part,</hi> they would not take the <hi>Nationall Covenant</hi> (approved by King (I meane his Gracious Ma<g ref="char:EOLhyphen"/>jeſty that now is) and Kingdomes) but ſtood for <hi>prophaneſſe and ſuperſtition,</hi> and ſo they were <hi>kept out</hi> on the other parts prevailing; Now who were <hi>the ſufferers</hi> (if the <hi>cauſe makes the Martyr</hi>) to be <hi>moſt pitied,</hi> I leave to all wiſe and godly to <hi>Judge and cenſure.</hi>
+            </p>
+            <p>The <hi>Sequestred Clergy</hi> generally left the <hi>pastoral charge,</hi> and care of their people, <hi>and fled,</hi> and took other charges elſe<g ref="char:EOLhyphen"/>where, where ſome of them (to our ſad experience) ceized up<g ref="char:EOLhyphen"/>on the <hi>Livings,</hi> &amp; <hi>Eſtates</hi> of Godly Miniſters; and that in ſuch a <hi>cruel manner,</hi> that the <hi>Long Parliament</hi> was neceſſitated, to ſet up a <hi>Committee for relief of plundered Ministers:</hi> by whom ſome Congregations have been ſupplied with faithful Miniſters from thence; <hi>(in the valley ef Achor a door of hope)</hi> and thoſe of us, that upon <hi>intreaty,</hi> and <hi>command,</hi> and of <hi>conſcience,</hi> aſſumed the charge of <hi>deſerted congregations,</hi> whither our <hi>Labor</hi> hath not been more then our <hi>Hire,</hi> and our <hi>pains</hi> then our <hi>profits;</hi> we dare leave <hi>(generally)</hi> to our <hi>enemies to judge,</hi> only we have <hi>this de<g ref="char:EOLhyphen"/>pendance</hi> in what we have done, <hi>our labor is with the Lord and our reward with our God.</hi>
+            </p>
+            <p>
+               <hi>The Sequeſtred Miniſters</hi> never <hi>attempted</hi> to return to the <hi>Paſtorall care</hi> and charge of their <hi>flocks,</hi> for theſe <hi>many many yeares.</hi> Not <hi>Redde Peculium,</hi> but <hi>pecuniam,</hi> was their cry; they <hi>Thirſted</hi> more after the <hi>Livings</hi> of the <hi>places,</hi> then the <hi>living ſouls of the people.</hi>
+            </p>
+            <p>Their <hi>Congregations</hi> deſire them not (except here and there a few <hi>ungodly</hi> at leſt <hi>looſ-profeſſors,</hi> and they rather for <hi>envy</hi> to ſome neighbours, then of <hi>ſober affection</hi> to the <hi>ſequeſtred Mini<g ref="char:EOLhyphen"/>ſter.</hi>) I ſay their <hi>Congregations</hi> affect them not, though (as the <hi>Devout wolfe</hi> to the ſheep in the true <hi>fable</hi>) they profeſſe
+<pb n="12" facs="tcp:119989:8"/>
+               <hi>to love them in their very bowells,</hi> yet their people fear, <hi>(cor tibi reſt at idem non tibi presto fidem,)</hi> tis the great <hi>Godlineſſe of gain,</hi> that moves them ſo exceedingly<g ref="char:punc">▪</g> more then <hi>the gain of godlineſſe.</hi> And truly I think, (as I ſhould alſo do in ſum caſe) Though they have <hi>repented;</hi> (a thing that I would gladly <hi>beleeve</hi> but <hi>never ſaw it</hi> in them,) yet their <hi>reformation</hi> would be better received, and credited elſewhere, then amongſt their <hi>former congregations,</hi> where there will be on all hands, <hi>ſuſpicion, ſuppoſi<g ref="char:EOLhyphen"/>tion of injury and ſtrife,</hi> and perhaps <hi>revenge;</hi> imbittering the Spirit and hindring their <hi>Miniſtry.</hi>
+            </p>
+            <p>Laſtly for our Selves; our <hi>Innocency</hi> and <hi>Labors</hi> are our grea<g ref="char:EOLhyphen"/>teſt <hi>Arguments.</hi> Our labours have been great; and (all things conſidered) our <hi>ſucceſſe</hi> in our Miniſtry happy; <hi>Light and know<g ref="char:EOLhyphen"/>ledge is encreaſed.</hi> I remember a Chriſtian told me, ſpeaking of the <hi>encreaſe of knowledge,</hi> that he had heard <hi>more ſermons</hi> in his parriſh Church in <hi>one moneth,</hi> then his father before him had heard, or could hear in 30 <hi>yeares.</hi> But ſome of the Sequeſtred Miniſters <hi>envying the work,</hi> found wayes (like thoſe that hin<g ref="char:EOLhyphen"/>dred the rebuilding of <hi>Jeruſalem,)</hi> by <hi>envious reproaches and ſcandall</hi> to <hi>retard</hi> and <hi>hinder</hi> our ſucceſſe. Theſe perſwade our Congregations to <hi>tax us heavily; To pay tithes ſlowly;</hi> Theſe create <hi>falſe reports</hi> of us; and if they perceive but the <hi>leſt ſpark</hi> of heat or <hi>prejudice</hi> between Miniſter and people, they are at hand to blow up <hi>a fire,</hi> and to applaud the fact: Favouring <hi>Qua<g ref="char:EOLhyphen"/>kers, ſabbath-breakers,</hi> any thing againſt us. Yea, their <hi>envy</hi> hath driven ſome of them ſo far, that they <hi>expoſed</hi> the Kings <hi>Friends</hi> and <hi>Intreſts</hi> to publick <hi>diſhonour:</hi> to bring ſome of our perſons thereby into <hi>ſnares and dangers.</hi>
+            </p>
+            <p>Yet now, After all our <hi>hard ſervice;</hi> If we may not be owned for <hi>Paſtors,</hi> and <hi>True and Rightfull Miniſters</hi> by Law in our places, <hi>by King and Parliament:</hi> but thoſe our <hi>ſpirituall ſons and daughters,</hi> (<hi>begotten by the Goſpell</hi> thorow our Miniſtry) muſt be <hi>left and forſaken.</hi> We can but <hi>Proteſt</hi> to God and man, that (though <hi>'tis our Duty</hi> to <hi>ſubmit,</hi> yet) tis our <hi>grief to part</hi> (not with the <hi>pittance of our means,</hi> but) with the <hi>dear ſociety of be<g ref="char:EOLhyphen"/>loved ſouls;</hi> more precious unto us then our <hi>benefits</hi> or <hi>lives.</hi> And to them it will be occaſion of too much <hi>ſorrow:</hi> that (as <hi>Paſtors,</hi>
+               <pb n="13" facs="tcp:119989:8"/>and <hi>Fathers,</hi>) <hi>they ſhall ſee our face no more!</hi>
+            </p>
+            <p>Finally, To conclude my work. I will add a word or two of <hi>Advice,</hi> and <hi>friendly Counſell</hi> to Mr. <hi>Moſſom,</hi> and his num<g ref="char:EOLhyphen"/>ber.</p>
+            <p>Firſt, To mend his <hi>principles,</hi> and not take up his <hi>Axioms</hi> on bare truſt (as that from <hi>J. C.</hi> in his <hi>Title page</hi>) <hi>Lex juſtitie, Juſtitia reinpublieae baſis;</hi> whereas indeed (and right) it ſhould be as I have fixed it, inſerted, in my <hi>Title page: Juſtitia Legis, et Lex reipublicae baſis.</hi> For <hi>Juſtice</hi> is the <hi>firſt foundation</hi> of all Law, and government, for a Law may be <hi>altered and reduced to Justice,</hi> but not <hi>Justice altered and ſubdued to a Law.</hi>
+            </p>
+            <p n="2">2. Again, I deſire him a little to <hi>ſweep before the doors of</hi> his <hi>own party,</hi> and move them to <hi>restore</hi> what they have <hi>unjustly taken;</hi> and <hi>cruelly plundered:</hi> and then expect in <hi>charity,</hi> what we can <hi>ſpare</hi> them out of what we have <hi>ſaved of the reward of our Labours.</hi> I could <hi>affix names,</hi> But I am not willing to <hi>blurre</hi> any mans name; but <hi>admoniſh his Conſcience.</hi> But if any ſuch <hi>outrages</hi> have been committed by any of us, let us be <hi>named,</hi> and <hi>ſhamed,</hi> and <hi>refund;</hi> and themſelves <hi>readmitted</hi> in thoſe places, <hi>as more righteous then we.</hi>
+            </p>
+            <p>I would further have Mr. <hi>Moſſom (who vilifies us as neceſſi<g ref="char:EOLhyphen"/>tous)</hi> and all his <hi>Learnedest Clergy</hi> know, that we have fed the <hi>starved Congregations</hi> they have <hi>deſerted,</hi> (and from which by <hi>Parliament</hi> they were <hi>ſequeſtred,</hi>) <hi>not for morſells;</hi> but of <hi>Chari<g ref="char:EOLhyphen"/>ty,</hi> and <hi>Conſcience:</hi> Tis well known that many of us <hi>need not,</hi> (and I pray God we may never feel <hi>Prelatical compaſſion</hi> to us and our families,) nor <hi>did need</hi> their <hi>eſtates for a ſubſiſtence,</hi> the <hi>greater number</hi> of us (thorow the mercy of God) could <hi>boaſt</hi> of as great <hi>birth, estate, friends,</hi> and <hi>offers of preferments,</hi> as they. We having many of us our ſelves, <hi>Livings</hi> and <hi>preferments</hi> to beſtow (and ſome beſtowed) upon <hi>deſerving men,</hi> yet what is <hi>gain to us</hi> we can (I hope) <hi>account loſſe for Christ.</hi> And if ſome of us were <hi>reduced from the deepest of neeeſſities,</hi> as he ſaith, we were <hi>induced</hi> firſt into thoſe <hi>neceſſities</hi> by the <hi>Prelates</hi> or late <hi>Plundring,</hi> or ſuch wayes. And if we were <hi>originally poor,</hi> and ſo <hi>still,</hi> we need not be <hi>aſhamed</hi> that God hath <hi>taken the poor even from the Dunghil: the earth is the Lords and the fulneſs thereof,</hi>
+               <pb n="6" facs="tcp:119989:9"/>and we <hi>in our poverty</hi> well know, how the <hi>Sequeſtred Clergy,</hi> ſome of them, attained their <hi>plentifull full eſtates:</hi> But of this <hi>thus much ſhall ſuffice for this Time.</hi>
+            </p>
+            <p>Only this, Let not Mr. <hi>Moſſom glory,</hi> in being of the number of the <hi>Sequeſtred Clergy,</hi> but if he be now a <hi>good man,</hi> let him teach thoſe of his <hi>culpable fraternity,</hi> that <hi>ſuffer for their faults,</hi> to ſay, as the <hi>good thief</hi> on the Croſſe, Luke 23. <hi>We are juſtly here, for we receive the due reward of our deeds,</hi> and my prayer <hi>with him,</hi> and <hi>for them</hi> (and <hi>him</hi> if need be) ſhall be that God may give them <hi>repentance, pardon,</hi> and <hi>grace</hi> for Time to come: <hi>AMEN.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:119989:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
